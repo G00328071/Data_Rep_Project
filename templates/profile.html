@@ -1,0 +1,31 @@
+<!-- this page will be inserted into the base html page by using
+   Jinja2 please ref=> http://flask.pocoo.org/docs/0.11/templating/#jinja-setup-->
+{% extends "base.html" %}
+{% block content %}
+
+{% if session['email']!=None %}
+
+<div class="panel panel-default">
+    <div class="panel-heading">
+        <h1 class="panel-title">Welcome back {{ email }}</h1>
+    </div>
+    <div class="panel-body">It's time to start a new post.</div>
+</div>
+
+{% else %}
+
+<div class="panel panel-default">
+
+    <div class="panel-heading">
+        <h1 class="panel-title">Hello Visitor, you don't have an account</h1>
+    </div>
+    <div class="panel-body">Would you like to create an account?
+        <button href="/register" class="btn btn-primary">Sign Up</button>
+    </div>
+
+</div>
+
+{% endif %}
+
+
+{% endblock %}
