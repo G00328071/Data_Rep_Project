@@ -74,10 +74,10 @@ Once the application is running, it can be accessed by pointing your browser at 
 
 or the port which has been set in the following code snippet on the bottom of the app.py page
 
+```python
 if __name__ == '__main__':
-
  app.run(port=4990, debug=True)
-
+```
 
 ###References:  
 
