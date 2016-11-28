@@ -20,7 +20,7 @@ You must devise an idea for a web application, write the software, write documen
 required us to start and maintain a blog for the duration of that semester.    
  
 
-Team Members
+###Team Members
 
 In order to try duplicate a real-life work environment, we decided to complete this project as a team.
 Four members, which formed the original core group, were queried as to their participation in the team.
@@ -31,7 +31,7 @@ Two decided to pursue individual projects instead, leaving two of a team.
 .) Alan Doyle - G00328071@GMIT.IE
 
 
-Team Meetings
+###Team Meetings
 
 Meetings were held on an ongoing basis and nearly every day in the GMIT canteen over dinner/coffee, discussions regarding
 any problems encountered were discussed, and possible solutions found from the net and shared.
@@ -39,15 +39,15 @@ One such problem was the choice of database to use.  As part of this course inte
 The decision to change to mongo came about from sheer research into the suitability and supporting 
 documentation/tutorials on the net.
  
-How to run the application 
+###How to run the application 
 
-Method one:
+####Method one:
 
 The application has been deployed to the net, and can be accessed at the following url; http://alexpt2000.pythonanywhere.com/
 There is no need to install the database as this is also hosted on mLab.
 
 
-Method two:
+####Method two:
 
 Run on your own local pc.
 
@@ -77,7 +77,7 @@ if __name__ == '__main__':
     app.run(port=4990, debug=True)
 
 
-References:  
+###References:  
 
 
 
