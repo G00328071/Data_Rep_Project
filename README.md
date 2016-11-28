@@ -26,9 +26,9 @@ In order to try duplicate a real-life work environment, we decided to complete t
 Four members, which formed the original core group, were queried as to their participation in the team.
 Two decided to pursue individual projects instead, leaving two of a team.
 
-.) Alexander Souza - G00317835@GMIT.IE
+1. Alexander Souza - G00317835@GMIT.IE
 
-.) Alan Doyle - G00328071@GMIT.IE
+2. Alan Doyle - G00328071@GMIT.IE
 
 
 ###Team Meetings
@@ -75,7 +75,7 @@ or the port which has been set in the following code snippet on the bottom of th
 
 if __name__ == '__main__':
 
-    app.run(port=4990, debug=True)
+ app.run(port=4990, debug=True)
 
 
 ###References:  
