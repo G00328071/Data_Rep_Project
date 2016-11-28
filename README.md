@@ -1,6 +1,6 @@
-Single-page Web Application Project
+#Single-page Web Application Project
 
-Data Representation and Querying 3rd year Project 2016
+##Data Representation and Querying 3rd year Project 2016
 
 This repository contains code and information for our third-year undergraduate project for the module, Data Representation, and Querying.
 The module is taught to undergraduate students at GMIT in the Department of Computer Science and Applied Physics.
