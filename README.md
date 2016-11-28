@@ -11,6 +11,7 @@ We have created a Single-Page Web Application (SPA) that lets a user, register a
 or if they wish create new posts of their own. The Initial brainstorming sessions, resulted in a project idea that had to be simplistic in design and build, but still met the 
 requirements laid out in the project instructions.
 ***************************************************************************************************************************************************************
+####Extract from project instructions
 You are required to develop a single-page web application(SPA) written in the programming language Python using the Flask framework.
 You must devise an idea for a web application, write the software, write documentation explaining how the application works, and write a short user guide for it.
 
