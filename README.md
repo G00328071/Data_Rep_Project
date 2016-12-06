@@ -98,22 +98,22 @@ https://startbootstrap.com/template-overviews/clean-blog/
 
 
 ##Home Screen:
-![Home Screen](screenshots/Screenshot_1.png)
+![Home Screen](screenShots/Screenshot_1.png)
 
 ##Login
-![Login](screenshots/Screenshot_2.png)
+![Login](screenShots/Screenshot_2.png)
 
 ##Sign up
-![Sign up](screenshots/Screenshot_3.png)
+![Sign up](screenShots/Screenshot_3.png)
 
 ##Create Post
-![Create Post](screenshots/Screenshot_4.png)
+![Create Post](screenShots/Screenshot_4.png)
 
 ##Post Form
-![Post form](screenshots/Screenshot_5.png)
+![Post form](screenShots/Screenshot_5.png)
 
 ##Mobile responsive page
-![Responsive page](screenshots/Screenshot_6.png)
+![Responsive page](screenShots/Screenshot_6.png)
 
 
 
