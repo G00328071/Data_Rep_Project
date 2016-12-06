@@ -1,6 +1,6 @@
 #Single-page Web Application Project
 
-![Home Screen](screenshots/Screenshot_1.png)
+![Home Screen](screenShots/Screenshot_1.png)
 
 #Data Representation and Querying 3rd year Project 2016
 
